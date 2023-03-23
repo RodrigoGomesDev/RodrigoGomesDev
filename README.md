@@ -1,5 +1,5 @@
-<h1 align="center">Hello, I'm Rodrigo Gomes ☺️</h1>
-<h3 align="center">I'm a Brazilian :green_heart: student passionate about programming</h3>
+<h1 align="center">Olá, eu sou Rodrigo Gomes</h1>
+<h3 align="center">Sou um estudante apaixonado por programação e tudo que envolve tecnologias</h3>
 
 <h3>Contact me</h3>
 <p>
