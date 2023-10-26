@@ -1,70 +1,69 @@
 <h1 align="center">Olá, eu sou Rodrigo Gomes</h1>
-<h3 align="center">Sou um estudante apaixonado por programação e tudo que envolve tecnologias</h3>
+<h3 align="center">Sou um estudante de programação e tudo que envolve tecnologias</h3>
 
-<h3>Contact me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  width="30" height "40" alt="linkedin"> 
-  </a>
-</p>
+<hr>
 
-<h3>Languages and Tools</h3>
-<p>
-<!-- html -->
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"  width="40" height "40" alt="html"> 
-  </a>
-<!-- css -->
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"  width="40" height "40" alt="css"> 
-  </a>
-<!-- javascript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"  width="40" height "40" alt="javascript"> 
-  </a>
-<!-- git -->
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"  width="40" height "40" alt="git"> 
-  </a>
-<!-- firebase -->
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://camo.githubusercontent.com/dd4b2422ed3bfc9da88c43d18550375c66f9584327dff7ecc19315ce50b96f07/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f66697265626173652f66697265626173652d69636f6e2e737667"  width="40" height "40" alt="firebase"> 
-  </a>
- <!-- typescript -->
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"  width="40" height "40" alt="typescript"> 
-  </a>
-<!-- linux -->
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"  width="40" height "40" alt="linkedin"> 
-  </a>
-<!-- mongodb -->
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"  width="40" height "40" alt="linkedin"> 
-  </a>
-<!-- mysql -->
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="40" height "40" alt="linkedin"> 
-  </a>
-<!-- node -->
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"  width="40" height "40" alt="linkedin"> 
-  </a>
-<!-- sql -->
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height "40" alt="linkedin"> 
-  </a>
-<!-- php -->
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"  width="40" height "40" alt="linkedin"> 
-  </a>
-<!-- apache -->
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg"  width="40" height "40" alt="linkedin"> 
-  </a>
-<!-- jquery -->
-  <a href="https://www.linkedin.com/in/rodrigo-gomes-706ab71a9/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"  width="40" height "40" alt="linkedin"> 
-  </a>
+<h3>Minhas Skills</h3>
+
+**Aplicações e dados**
+
+<div>
+    <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react" alt="React Native" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs" alt="NextJS" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/TypeScript-333333?logo=TypeScript&style=flat" alt="Typescript" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" style="display:inline-block;">
+</div>
+
+<br>
+
+**Utilidades**
+
+<div>
+    <img src="https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia" alt="Insomnia" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman" alt="Postman" style="display:inline-block;">
+</div>
+
+<br>
+
+**DevOps**
+
+<div>
+    <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket" alt="Bitbucket" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker" alt="Docker" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab" alt="GitLab" style="display:inline-block;">
+</div>
+
+<br>
+
+**Ferramentas de desenvolvimento**
+
+<div>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC" alt="Trello" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC" alt="Figma" style="display:inline-block;">
+</div>
+
+<br/>
+
+<h3>Contate-me</h3>
+
+
+<p align="left">
+  <a href="mailto:rodrigogomessims@gmail.com" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
+
+  <a href="https://www.linkedin.com/in/rodrigogomesdev/" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="wa.me/+5511993279397" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+
+  <a href="https://www.youtube.com/@RodrigoGomes-re8mw/featured" alt="Youtube">
+  <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
 </p>
