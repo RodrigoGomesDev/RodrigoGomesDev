@@ -1,5 +1,5 @@
-# Olá, eu sou Rodrigo Gomes
-## Sou um estudante de programação e tudo que envolve tecnologias
+<h1 align="center">Olá, eu sou Rodrigo Gomes</h1>
+<p align="center">Sou um estudante de programação e tudo que envolve tecnologias</p>
 
 <hr>
 
