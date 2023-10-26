@@ -1,9 +1,9 @@
-<p align="center" style="font-size: 34px">Olá, eu sou Rodrigo Gomes</p>
-<p align="center" style="font-size: 30px">Sou um estudante de programação e tudo que envolve tecnologias</p>
+# Olá, eu sou Rodrigo Gomes
+## Sou um estudante de programação e tudo que envolve tecnologias
 
 <hr>
 
-<p style="font-size: 24px">Minhas Skills</p>
+### Minhas Skills
 
 **Aplicações e dados**
 
