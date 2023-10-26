@@ -1,5 +1,5 @@
-<h1 align="center">Olá, eu sou Rodrigo Gomes</h1>
-<h3 align="center">Sou um estudante de programação e tudo que envolve tecnologias</h3>
+<h1 align="center" style="color: white">Olá, eu sou Rodrigo Gomes</h1>
+<h3 align="center" style="color: white">Sou um estudante de programação e tudo que envolve tecnologias</h3>
 
 <hr>
 
