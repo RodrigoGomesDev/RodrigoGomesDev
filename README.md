@@ -1,9 +1,9 @@
-<h1 align="center" style="color: white">Olá, eu sou Rodrigo Gomes</h1>
-<h3 align="center" style="color: white">Sou um estudante de programação e tudo que envolve tecnologias</h3>
+<p align="center" style="font-size: 34px">Olá, eu sou Rodrigo Gomes</p>
+<p align="center" style="font-size: 30px">Sou um estudante de programação e tudo que envolve tecnologias</p>
 
 <hr>
 
-<h3>Minhas Skills</h3>
+<p style="font-size: 24px">Minhas Skills</p>
 
 **Aplicações e dados**
 
