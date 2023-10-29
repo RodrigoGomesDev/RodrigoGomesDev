@@ -14,6 +14,7 @@
     <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React" style="display:inline-block;">
     <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react" alt="React Native" style="display:inline-block;">
     <img src="https://img.shields.io/badge/Next.js-333333?style=flat&logo=nextdotjs" alt="NextJS" style="display:inline-block;">
+    <br />
     <img src="https://img.shields.io/badge/TypeScript-333333?logo=TypeScript&style=flat" alt="Typescript" style="display:inline-block;">
     <img src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql" alt="MySQL" style="display:inline-block;">
 </div>
