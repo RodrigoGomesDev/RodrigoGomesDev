@@ -61,10 +61,10 @@
   <a href="https://www.linkedin.com/in/rodrigogomesdev/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="wa.me/+5511993279397" alt="WhatsApp">
+  <a href="wa.me/+5511989111575" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-  <a href="https://www.youtube.com/@RodrigoGomes-re8mw/featured" alt="Youtube">
+  <a href="https://www.youtube.com/@rodrigogomesdev/featured" alt="Youtube">
   <img src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
 </p>
